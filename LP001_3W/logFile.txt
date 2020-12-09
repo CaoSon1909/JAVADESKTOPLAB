@@ -1,0 +1,12 @@
+
+Main Form - saveItem(): java.lang.NumberFormatException: For input string: "a"
+
+Main Form - saveItem(): java.lang.NumberFormatException: For input string: "a"
+
+Main Form - saveItem(): java.lang.NumberFormatException: For input string: "a1a"
+
+Main Form - saveItem(): java.lang.NumberFormatException: For input string: "a"
+
+Main Form - saveItem(): java.lang.NumberFormatException: For input string: "a1a"
+
+Main Form - saveItem(): java.lang.NumberFormatException: For input string: "a"
